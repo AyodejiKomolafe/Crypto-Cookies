@@ -1,0 +1,844 @@
+{
+  "cookies": [
+    {
+      "id": 1,
+      "fortune": "In the Web3 world, your keys are your freedom."
+    },
+    {
+      "id": 2,
+      "fortune": "Smart contracts may be immutable, but your ideas should be flexible."
+    },
+    {
+      "id": 3,
+      "fortune": "Decentralization is the future; don’t be the last one holding the centralized bag."
+    },
+    {
+      "id": 4,
+      "fortune": "In Web3, the early bird gets the block reward."
+    },
+    {
+      "id": 5,
+      "fortune": "Your blockchain journey will be as strong as the community you build."
+    },
+    {
+      "id": 6,
+      "fortune": "Trust in code, but verify everything."
+    },
+    {
+      "id": 7,
+      "fortune": "The best investment in Web3 is in your own knowledge."
+    },
+    {
+      "id": 8,
+      "fortune": "Web3 rewards those who are patient and persistent."
+    },
+    {
+      "id": 9,
+      "fortune": "Every wallet address holds a new opportunity."
+    },
+    {
+      "id": 10,
+      "fortune": "Immutable chains are the foundation, but creativity is the key."
+    },
+    {
+      "id": 11,
+      "fortune": "Innovation in Web3 is only limited by your imagination."
+    },
+    {
+      "id": 12,
+      "fortune": "Don’t fear the dip, embrace the shift."
+    },
+    {
+      "id": 13,
+      "fortune": "Transparency in code leads to trust in transactions."
+    },
+    {
+      "id": 14,
+      "fortune": "Today’s rug pull could be tomorrow’s lesson learned."
+    },
+    {
+      "id": 15,
+      "fortune": "In Web3, those who collaborate build the strongest chains."
+    },
+    {
+      "id": 16,
+      "fortune": "HODL your vision and execute with precision."
+    },
+    {
+      "id": 17,
+      "fortune": "The Web3 space rewards those who are bold and innovative."
+    },
+    {
+      "id": 18,
+      "fortune": "A secure wallet is the first step to financial freedom in Web3."
+    },
+    {
+      "id": 19,
+      "fortune": "Your smart contracts are only as good as your last audit."
+    },
+    {
+      "id": 20,
+      "fortune": "Web3: where ideas become decentralized realities."
+    },
+    {
+      "id": 21,
+      "fortune": "Trust the process, but verify the hash."
+    },
+    {
+      "id": 22,
+      "fortune": "Web3 is not just a trend; it’s a paradigm shift."
+    },
+    {
+      "id": 23,
+      "fortune": "Your next big break could be one block away."
+    },
+    {
+      "id": 24,
+      "fortune": "In Web3, anonymity can be empowering but requires responsibility."
+    },
+    {
+      "id": 25,
+      "fortune": "A wise person diversifies both their tokens and their knowledge."
+    },
+    {
+      "id": 26,
+      "fortune": "Code is law, but creativity drives change."
+    },
+    {
+      "id": 27,
+      "fortune": "Your blockchain adventure begins with a single transaction."
+    },
+    {
+      "id": 28,
+      "fortune": "Stay curious; Web3 evolves faster than you can imagine."
+    },
+    {
+      "id": 29,
+      "fortune": "The best utility is the one that solves real problems."
+    },
+    {
+      "id": 30,
+      "fortune": "In Web3, the only limit is your smart contract’s gas."
+    },
+    {
+      "id": 31,
+      "fortune": "Success in Web3 is a marathon, not a sprint."
+    },
+    {
+      "id": 32,
+      "fortune": "Your digital identity is as valuable as your private key."
+    },
+    {
+      "id": 33,
+      "fortune": "Web3 will reshape the world; make sure you’re part of the story."
+    },
+    {
+      "id": 34,
+      "fortune": "Keep your tokens safe, but don’t forget to share your knowledge."
+    },
+    {
+      "id": 35,
+      "fortune": "A strong community is the backbone of any successful project."
+    },
+    {
+      "id": 36,
+      "fortune": "In the world of Web3, your network is your net worth."
+    },
+    {
+      "id": 37,
+      "fortune": "The future is decentralized, and you’re right at the center."
+    },
+    {
+      "id": 38,
+      "fortune": "Be the node that connects others in the Web3 space."
+    },
+    {
+      "id": 39,
+      "fortune": "In Web3, every block mined is a step towards the future."
+    },
+    {
+      "id": 40,
+      "fortune": "The blockchain doesn’t forget; make sure your actions are worth remembering."
+    },
+    {
+      "id": 41,
+      "fortune": "Your next breakthrough could be hidden in your next transaction."
+    },
+    {
+      "id": 42,
+      "fortune": "Web3 empowers the individual; seize that power wisely."
+    },
+    {
+      "id": 43,
+      "fortune": "In Web3, the smartest move is the one that secures your future."
+    },
+    {
+      "id": 44,
+      "fortune": "Decentralization is not just a goal; it’s a journey."
+    },
+    {
+      "id": 45,
+      "fortune": "In Web3, innovation is the best investment."
+    },
+    {
+      "id": 46,
+      "fortune": "Hold fast to your principles, and let the blocks fall where they may."
+    },
+    {
+      "id": 47,
+      "fortune": "The real value in Web3 lies in the community you cultivate."
+    },
+    {
+      "id": 48,
+      "fortune": "In Web3, transparency builds trust, and trust builds value."
+    },
+    {
+      "id": 49,
+      "fortune": "Your next big idea could disrupt the entire blockchain."
+    },
+    {
+      "id": 50,
+      "fortune": "In the Web3 world, flexibility is as important as security."
+    },
+    {
+      "id": 51,
+      "fortune": "Think outside the block; innovation is born from creativity."
+    },
+    {
+      "id": 52,
+      "fortune": "Your digital identity is as valuable as any token."
+    },
+    {
+      "id": 53,
+      "fortune": "In Web3, every interaction is a step towards decentralization."
+    },
+    {
+      "id": 54,
+      "fortune": "Be cautious, but not fearful; the Web3 space rewards the bold."
+    },
+    {
+      "id": 55,
+      "fortune": "In Web3, collaboration trumps competition every time."
+    },
+    {
+      "id": 56,
+      "fortune": "A decentralized mind is the key to unlocking Web3’s potential."
+    },
+    {
+      "id": 57,
+      "fortune": "In Web3, patience is as valuable as innovation."
+    },
+    {
+      "id": 58,
+      "fortune": "Web3 is a canvas; your ideas are the paint."
+    },
+    {
+      "id": 59,
+      "fortune": "In Web3, security is the foundation, and innovation is the skyscraper."
+    },
+    {
+      "id": 60,
+      "fortune": "Your digital assets are only as secure as your private key."
+    },
+    {
+      "id": 61,
+      "fortune": "Embrace the future of finance with an open mind and a secure wallet."
+    },
+    {
+      "id": 62,
+      "fortune": "In Web3, every line of code is a brick in the road to decentralization."
+    },
+    {
+      "id": 63,
+      "fortune": "Your next big opportunity could be a block away."
+    },
+    {
+      "id": 64,
+      "fortune": "Web3 is a marathon; pace yourself for the long haul."
+    },
+    {
+      "id": 65,
+      "fortune": "A diversified portfolio is a resilient one."
+    },
+    {
+      "id": 66,
+      "fortune": "In Web3, knowledge is your most valuable asset."
+    },
+    {
+      "id": 67,
+      "fortune": "Your success in Web3 will be measured by your adaptability."
+    },
+    {
+      "id": 68,
+      "fortune": "Web3 rewards those who stay curious and keep learning."
+    },
+    {
+      "id": 69,
+      "fortune": "In Web3, the community you build is as important as the code you write."
+    },
+    {
+      "id": 70,
+      "fortune": "Don’t just follow the trends; create them."
+    },
+    {
+      "id": 71,
+      "fortune": "A secure future in Web3 starts with a secure wallet."
+    },
+    {
+      "id": 72,
+      "fortune": "The key to success in Web3 is to stay informed and stay secure."
+    },
+    {
+      "id": 73,
+      "fortune": "In Web3, the power of decentralization is in your hands."
+    },
+    {
+      "id": 74,
+      "fortune": "Embrace the power of Web3 to unlock new opportunities."
+    },
+    {
+      "id": 75,
+      "fortune": "In Web3, the most valuable token is trust."
+    },
+    {
+      "id": 76,
+      "fortune": "Your next innovation could change the blockchain forever."
+    },
+    {
+      "id": 77,
+      "fortune": "Web3 is a journey, not a destination; enjoy the ride."
+    },
+    {
+      "id": 78,
+      "fortune": "In Web3, security and innovation go hand in hand."
+    },
+    {
+      "id": 79,
+      "fortune": "Your digital legacy will be built one block at a time."
+    },
+    {
+      "id": 80,
+      "fortune": "In Web3, every challenge is an opportunity in disguise."
+    },
+    {
+      "id": 81,
+      "fortune": "Trust in decentralization, but don’t forget to verify."
+    },
+    {
+      "id": 82,
+      "fortune": "In Web3, your private key is your passport to the future."
+    },
+    {
+      "id": 83,
+      "fortune": "Web3 is a new frontier; be bold in exploring it."
+    },
+    {
+      "id": 84,
+      "fortune": "A strong community is the foundation of any successful blockchain."
+    },
+    {
+      "id": 85,
+      "fortune": "In Web3, your digital footprint is as important as your physical one."
+    },
+    {
+      "id": 86,
+      "fortune": "Web3 rewards those who innovate and think outside the block."
+    },
+    {
+      "id": 87,
+      "fortune": "The power of Web3 lies in the hands of its users."
+    },
+    {
+      "id": 88,
+      "fortune": "In Web3, your wallet is your identity; protect it."
+    },
+    {
+      "id": 89,
+      "fortune": "Web3 is not just a technology; it’s a mindset."
+    },
+    {
+      "id": 90,
+      "fortune": "In Web3, the most valuable asset is a trusted community."
+    },
+    {
+      "id": 91,
+      "fortune": "Embrace the decentralized future with open arms and an open mind."
+    },
+    {
+      "id": 92,
+      "fortune": "In Web3, the best security is proactive security."
+    },
+    {
+      "id": 93,
+      "fortune": "Web3 is a playground; your imagination is the only limit."
+    },
+    {
+      "id": 94,
+      "fortune": "Your next great idea could be the next big thing in Web3."
+    },
+    {
+      "id": 95,
+      "fortune": "In Web3, collaboration is the key to unlocking new possibilities."
+    },
+    {
+      "id": 96,
+      "fortune": "A diversified strategy is the best way to navigate the Web3 landscape."
+    },
+    {
+      "id": 97,
+      "fortune": "Web3 is a canvas; your code is the brush."
+    },
+    {
+      "id": 98,
+      "fortune": "In Web3, your reputation is as valuable as your wallet."
+    },
+    {
+      "id": 99,
+      "fortune": "The future of finance is decentralized; be a part of the revolution."
+    },
+    {
+      "id": 100,
+      "fortune": "In Web3, the most valuable currency is trust."
+    },
+    {
+      "id": 101,
+      "fortune": "Your blockchain journey is just beginning; stay curious and keep learning."
+    },
+    {
+      "id": 102,
+      "fortune": "In Web3, innovation is the bridge between the present and the future."
+    },
+    {
+      "id": 103,
+      "fortune": "The power of Web3 is in the hands of those who dare to innovate."
+    },
+    {
+      "id": 104,
+      "fortune": "In Web3, your digital identity is your most valuable asset."
+    },
+    {
+      "id": 105,
+      "fortune": "Web3 is a journey; enjoy every block along the way."
+    },
+    {
+      "id": 106,
+      "fortune": "In Web3, patience is a virtue that will be rewarded."
+    },
+    {
+      "id": 107,
+      "fortune": "Your next big breakthrough in Web3 is just a transaction away."
+    },
+    {
+      "id": 108,
+      "fortune": "In Web3, the most secure wallet is the one you never stop protecting."
+    },
+    {
+      "id": 109,
+      "fortune": "Web3 is a puzzle; your knowledge is the key to solving it."
+    },
+    {
+      "id": 110,
+      "fortune": "In Web3, the community you build will be the foundation of your success."
+    },
+    {
+      "id": 111,
+      "fortune": "Your next big idea in Web3 could change the world."
+    },
+    {
+      "id": 112,
+      "fortune": "In Web3, collaboration is the cornerstone of innovation."
+    },
+    {
+      "id": 113,
+      "fortune": "The future of Web3 is as bright as your vision for it."
+    },
+    {
+      "id": 114,
+      "fortune": "In Web3, your network is your most valuable asset."
+    },
+    {
+      "id": 115,
+      "fortune": "Your journey in Web3 is just beginning; enjoy the ride."
+    },
+    {
+      "id": 116,
+      "fortune": "In Web3, security and innovation are two sides of the same coin."
+    },
+    {
+      "id": 117,
+      "fortune": "Web3 is a canvas; your ideas are the paint."
+    },
+    {
+      "id": 118,
+      "fortune": "In Web3, your digital identity is your most valuable currency."
+    },
+    {
+      "id": 119,
+      "fortune": "The power of Web3 lies in the community you build."
+    },
+    {
+      "id": 120,
+      "fortune": "In Web3, patience and persistence are the keys to success."
+    },
+    {
+      "id": 121,
+      "fortune": "Your next big opportunity in Web3 is just a transaction away."
+    },
+    {
+      "id": 122,
+      "fortune": "In Web3, the most secure wallet is the one you never stop securing."
+    },
+    {
+      "id": 123,
+      "fortune": "Web3 is a puzzle; your knowledge is the key to unlocking its potential."
+    },
+    {
+      "id": 124,
+      "fortune": "In Web3, the community you build is the foundation of your success."
+    },
+    {
+      "id": 125,
+      "fortune": "Your next big idea in Web3 could change the blockchain forever."
+    },
+    {
+      "id": 126,
+      "fortune": "In Web3, collaboration is the cornerstone of progress."
+    },
+    {
+      "id": 127,
+      "fortune": "The future of Web3 is as bright as your vision for it."
+    },
+    {
+      "id": 128,
+      "fortune": "In Web3, your network is your most valuable resource."
+    },
+    {
+      "id": 129,
+      "fortune": "Your journey in Web3 is just beginning; embrace the adventure."
+    },
+    {
+      "id": 130,
+      "fortune": "In Web3, security and innovation are the keys to success."
+    },
+    {
+      "id": 131,
+      "fortune": "Web3 is a canvas; your ideas are the brushstrokes."
+    },
+    {
+      "id": 132,
+      "fortune": "In Web3, your digital identity is your most valuable asset."
+    },
+    {
+      "id": 133,
+      "fortune": "The power of Web3 lies in the community you nurture."
+    },
+    {
+      "id": 134,
+      "fortune": "In Web3, patience and persistence will be your greatest allies."
+    },
+    {
+      "id": 135,
+      "fortune": "Your next big opportunity in Web3 is just a block away."
+    },
+    {
+      "id": 136,
+      "fortune": "In Web3, the most secure wallet is the one you keep improving."
+    },
+    {
+      "id": 137,
+      "fortune": "Web3 is a puzzle; your knowledge is the key to solving it."
+    },
+    {
+      "id": 138,
+      "fortune": "In Web3, the community you build will be the cornerstone of your success."
+    },
+    {
+      "id": 139,
+      "fortune": "Your next big idea in Web3 could change the blockchain forever."
+    },
+    {
+      "id": 140,
+      "fortune": "In Web3, collaboration is the key to unlocking new possibilities."
+    },
+    {
+      "id": 141,
+      "fortune": "The future of Web3 is as bright as your vision for it."
+    },
+    {
+      "id": 142,
+      "fortune": "In Web3, your network is your most valuable resource."
+    },
+    {
+      "id": 143,
+      "fortune": "Your journey in Web3 is just beginning; embrace the adventure."
+    },
+    {
+      "id": 144,
+      "fortune": "In Web3, security and innovation go hand in hand."
+    },
+    {
+      "id": 145,
+      "fortune": "Web3 is a canvas; your ideas are the paint that will create the masterpiece."
+    },
+    {
+      "id": 146,
+      "fortune": "In Web3, your digital identity is your most valuable possession."
+    },
+    {
+      "id": 147,
+      "fortune": "The power of Web3 lies in the community you build and the connections you make."
+    },
+    {
+      "id": 148,
+      "fortune": "In Web3, patience and persistence will lead you to success."
+    },
+    {
+      "id": 149,
+      "fortune": "Your next big opportunity in Web3 is just a block away."
+    },
+    {
+      "id": 150,
+      "fortune": "In Web3, the most secure wallet is the one you never stop securing."
+    },
+    {
+      "id": 151,
+      "fortune": "Web3 is a puzzle; your knowledge is the key to unlocking its potential."
+    },
+    {
+      "id": 152,
+      "fortune": "In Web3, the community you build is the foundation of your success."
+    },
+    {
+      "id": 153,
+      "fortune": "Your next big idea in Web3 could change the blockchain forever."
+    },
+    {
+      "id": 154,
+      "fortune": "In Web3, collaboration is the key to unlocking new possibilities."
+    },
+    {
+      "id": 155,
+      "fortune": "The future of Web3 is as bright as your vision for it."
+    },
+    {
+      "id": 156,
+      "fortune": "In Web3, your network is your most valuable resource."
+    },
+    {
+      "id": 157,
+      "fortune": "Your journey in Web3 is just beginning; embrace the adventure."
+    },
+    {
+      "id": 158,
+      "fortune": "In Web3, security and innovation go hand in hand."
+    },
+    {
+      "id": 159,
+      "fortune": "Web3 is a canvas; your ideas are the paint that will create the masterpiece."
+    },
+    {
+      "id": 160,
+      "fortune": "In Web3, your digital identity is your most valuable possession."
+    },
+    {
+      "id": 161,
+      "fortune": "The power of Web3 lies in the community you build and the connections you make."
+    },
+    {
+      "id": 162,
+      "fortune": "In Web3, patience and persistence will lead you to success."
+    },
+    {
+      "id": 163,
+      "fortune": "Your next big opportunity in Web3 is just a block away."
+    },
+    {
+      "id": 164,
+      "fortune": "In Web3, the most secure wallet is the one you never stop securing."
+    },
+    {
+      "id": 165,
+      "fortune": "Web3 is a puzzle; your knowledge is the key to unlocking its potential."
+    },
+    {
+      "id": 166,
+      "fortune": "In Web3, the community you build is the foundation of your success."
+    },
+    {
+      "id": 167,
+      "fortune": "Your next big idea in Web3 could change the blockchain forever."
+    },
+    {
+      "id": 168,
+      "fortune": "In Web3, collaboration is the key to unlocking new possibilities."
+    },
+    {
+      "id": 169,
+      "fortune": "The future of Web3 is as bright as your vision for it."
+    },
+    {
+      "id": 170,
+      "fortune": "In Web3, your network is your most valuable resource."
+    },
+    {
+      "id": 171,
+      "fortune": "Your journey in Web3 is just beginning; embrace the adventure."
+    },
+    {
+      "id": 172,
+      "fortune": "In Web3, security and innovation go hand in hand."
+    },
+    {
+      "id": 173,
+      "fortune": "Web3 is a canvas; your ideas are the paint that will create the masterpiece."
+    },
+    {
+      "id": 174,
+      "fortune": "In Web3, your digital identity is your most valuable possession."
+    },
+    {
+      "id": 175,
+      "fortune": "The power of Web3 lies in the community you build and the connections you make."
+    },
+    {
+      "id": 176,
+      "fortune": "In Web3, patience and persistence will lead you to success."
+    },
+    {
+      "id": 177,
+      "fortune": "Your next big opportunity in Web3 is just a block away."
+    },
+    {
+      "id": 178,
+      "fortune": "In Web3, the most secure wallet is the one you never stop securing."
+    },
+    {
+      "id": 179,
+      "fortune": "Web3 is a puzzle; your knowledge is the key to unlocking its potential."
+    },
+    {
+      "id": 180,
+      "fortune": "In Web3, the community you build is the foundation of your success."
+    },
+    {
+      "id": 181,
+      "fortune": "Your next big idea in Web3 could change the blockchain forever."
+    },
+    {
+      "id": 182,
+      "fortune": "In Web3, collaboration is the key to unlocking new possibilities."
+    },
+    {
+      "id": 183,
+      "fortune": "The future of Web3 is as bright as your vision for it."
+    },
+    {
+      "id": 184,
+      "fortune": "In Web3, your network is your most valuable resource."
+    },
+    {
+      "id": 185,
+      "fortune": "Your journey in Web3 is just beginning; embrace the adventure."
+    },
+    {
+      "id": 186,
+      "fortune": "In Web3, security and innovation go hand in hand."
+    },
+    {
+      "id": 187,
+      "fortune": "Web3 is a canvas; your ideas are the paint that will create the masterpiece."
+    },
+    {
+      "id": 188,
+      "fortune": "In Web3, your digital identity is your most valuable possession."
+    },
+    {
+      "id": 189,
+      "fortune": "The power of Web3 lies in the community you build and the connections you make."
+    },
+    {
+      "id": 190,
+      "fortune": "In Web3, patience and persistence will lead you to success."
+    },
+    {
+      "id": 191,
+      "fortune": "Your next big opportunity in Web3 is just a block away."
+    },
+    {
+      "id": 192,
+      "fortune": "In Web3, the most secure wallet is the one you never stop securing."
+    },
+    {
+      "id": 193,
+      "fortune": "Web3 is a puzzle; your knowledge is the key to unlocking its potential."
+    },
+    {
+      "id": 194,
+      "fortune": "In Web3, the community you build is the foundation of your success."
+    },
+    {
+      "id": 195,
+      "fortune": "Your next big idea in Web3 could change the blockchain forever."
+    },
+    {
+      "id": 196,
+      "fortune": "In Web3, collaboration is the key to unlocking new possibilities."
+    },
+    {
+      "id": 197,
+      "fortune": "The future of Web3 is as bright as your vision for it."
+    },
+    {
+      "id": 198,
+      "fortune": "In Web3, your network is your most valuable resource."
+    },
+    {
+      "id": 199,
+      "fortune": "Your journey in Web3 is just beginning; embrace the adventure."
+    },
+    {
+      "id": 200,
+      "fortune": "In Web3, security and innovation go hand in hand."
+    },
+    {
+      "id": 201,
+      "fortune": "Web3 is a canvas; your ideas are the paint that will create the masterpiece."
+    },
+    {
+      "id": 202,
+      "fortune": "In Web3, your digital identity is your most valuable possession."
+    },
+    {
+      "id": 203,
+      "fortune": "The power of Web3 lies in the community you build and the connections you make."
+    },
+    {
+      "id": 204,
+      "fortune": "In Web3, patience and persistence will lead you to success."
+    },
+    {
+      "id": 205,
+      "fortune": "Your next big opportunity in Web3 is just a block away."
+    },
+    {
+      "id": 206,
+      "fortune": "In Web3, the most secure wallet is the one you never stop securing."
+    },
+    {
+      "id": 207,
+      "fortune": "Web3 is a puzzle; your knowledge is the key to unlocking its potential."
+    },
+    {
+      "id": 208,
+      "fortune": "In Web3, the community you build is the foundation of your success."
+    },
+    {
+      "id": 209,
+      "fortune": "Your next big idea in Web3 could change the blockchain forever."
+    },
+    {
+      "id": 210,
+      "fortune": "In Web3, collaboration is the key to unlocking new possibilities."
+    }
+  ]
+}
